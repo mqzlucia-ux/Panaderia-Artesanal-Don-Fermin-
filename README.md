@@ -27,5 +27,3 @@ El diseño combina estética artesanal, interactividad y efectos visuales modern
 **Lucía Márquez**  
 📍 General Juan Madariaga, Buenos Aires, Argentina  
 
-## 🏷️ Licencia
-Licencia MIT - libre para uso educativo o personal.
