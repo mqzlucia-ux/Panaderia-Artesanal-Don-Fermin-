@@ -6,9 +6,9 @@ El diseño combina estética artesanal, interactividad y efectos visuales modern
 ## ✨ Características principales
 - 🎨 Diseño cálido y artesanal con tipografía moderna.  
 - 📸 Galería de productos con botones para ver precios.  
-- ⚡ Animaciones suaves (fade-in) al hacer scroll.  
+- ⚡ Animaciones suaves .  
 - 💬 Mensajes animados con precios de productos.  
-- 📱 Diseño adaptable (responsive).
+- 📱 Diseño adaptable.
 ## 🧱 Estructura del proyecto
 ```
 📁 panaderia-don-fermin/
